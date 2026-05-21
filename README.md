@@ -149,7 +149,14 @@ Spring Security Filters
 ✅ Secure APIs
 ✅ Feed System
 ✅ Logout Functionality
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/66dfca9d-aea2-4370-9d0c-7178709021c4" />
-<img width="1920" height="1080" alt="Screenshot (351)" src="https://github.com/user-attachments/assets/8f3b1562-7e96-4f2c-a929-d255279be764" />
-<img width="1920" height="1080" alt="Screenshot (352)" src="https://github.com/user-attachments/assets/398d6471-1c1e-446c-a93a-d8e71c2db881" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/329eb3f7-60a5-4ec4-8821-0000452c8449" />
+<img width="1920" height="1080" alt="Screenshot (355)" src="https://github.com/user-attachments/assets/5f7c598c-e74d-41cf-90bd-bcb035d289f9" />
+
+<img width="1920" height="1080" alt="Screenshot (356)" src="https://github.com/user-attachments/assets/56044a7d-9510-4d3b-b56c-dda64e4c620e" />
+
+<img width="1920" height="1080" alt="Screenshot (351)" src="https://github.com/user-attachments/assets/1f65a691-8658-482f-bab2-b67faa14a1e4" />
+
+<img width="1920" height="1080" alt="Screenshot (352)" src="https://github.com/user-attachments/assets/3593d9ab-64c6-46ad-ac99-fb475ec10229" />
+
+
+
+
